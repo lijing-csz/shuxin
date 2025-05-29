@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 export default defineConfig({
   // 加上 base 路径，重要！
-  base: '/',
+  base: '/shuxin/',
 
   plugins: [
     vue(),
